@@ -26,13 +26,6 @@
 <img width="173" height=“274” src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/16.jpeg"></img>
 <img width="173" height=“274” src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/17.jpeg"></img>
 
-## DownLoad
-
-[https://fir.im/Reading](https://fir.im/Reading)
-
-
-<img width="400" height=“400” src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/fir_download.png"></img>
-
 
 ## Function Tips
 
